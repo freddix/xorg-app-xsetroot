@@ -1,11 +1,11 @@
 Summary:	xsetroot application
 Name:		xorg-app-xsetroot
-Version:	1.1.0
+Version:	1.1.1
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xsetroot-%{version}.tar.bz2
-# Source0-md5:	b78a2da4cf128775031a5a3422fc0b78
+# Source0-md5:	7211b31ec70631829ebae9460999aa0b
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
